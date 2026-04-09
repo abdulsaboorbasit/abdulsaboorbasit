@@ -1,14 +1,12 @@
-# Hi there, I'm Abdul Saboor Basit 👋 
+<p align="center">
+  <img src="https://github.com/abdulsaboorbasit.png" width="150" height="150" style="border-radius: 50%;" alt="Abdul Saboor Basit Profile Picture">
+</p>
 
-### 🚀 Python & AI Developer | Daily Project Lab
-I'm mastering Python and AI through high-frequency building. I solve practical problems daily to sharpen my logic and engineering skills.
-
----
+# <p align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abdul+Saboor+Basit;Python+and+AI+Developer+🐍;24+Years+Old+from+Pakistan;Daily+Problem+Solver+💻)</p>
 
 ## 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,flask,fastapi,mysql,mongodb,git,docker,linux,github)](https://skillicons.dev)
 
----
 
 ## 📂 Project Portfolio
 > Projects are ranked by completion date (Latest on top).
