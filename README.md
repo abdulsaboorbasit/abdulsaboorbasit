@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/abdulsaboorbasit.png" width="150" height="150" style="border-radius: 50%;" alt="Abdul Saboor Basit Profile Picture">
+  <a href="https://github.com/abdulsaboorbasit">
+    <img src="https://github.com/abdulsaboorbasit.png?size=200" width="150" height="150" style="border-radius: 50%; display: block; margin: 0 auto;" alt="Abdul Saboor Basit">
+  </a>
 </p>
 
 # <p align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abdul+Saboor+Basit;Python+and+AI+Developer+🐍;24+Years+Old+from+Pakistan;Daily+Problem+Solver+💻)</p>
