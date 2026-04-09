@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://github.com/abdulsaboorbasit">
-    <img src="https://github.com/abdulsaboorbasit.png?size=200" width="150" height="150" style="border-radius: 50%; display: block; margin: 0 auto;" alt="Abdul Saboor Basit">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=3776AB&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abdul+Saboor+Basit;24+Years+Old+from+Pakistan" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFD43B&center=true&vCenter=true&width=800&lines=Python+and+AI+Developer+🐍;Daily+Problem+Solver+💻" />
 </p>
-
-# <p align="center">![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=1F6FEB&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Abdul+Saboor+Basit;Python+and+AI+Developer+🐍;24+Years+Old+from+Pakistan;Daily+Problem+Solver+💻)</p>
 
 ## 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,flask,fastapi,mysql,mongodb,git,docker,linux,github)](https://skillicons.dev)
