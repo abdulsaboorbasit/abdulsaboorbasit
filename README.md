@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there, I'm Abdul Saboor Basit 👋 
 
-<!--
-**abdulsaboorbasit/abdulsaboorbasit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Python & AI Developer | Daily Project Lab
+I'm mastering Python and AI through high-frequency building. I solve practical problems daily to sharpen my logic and engineering skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,flask,fastapi,mysql,mongodb,git,docker,linux,github)](https://skillicons.dev)
+
+---
+
+## 📂 Project Portfolio
+> Projects are ranked by completion date (Latest on top).
+
+| Project Name | Highlights | Tech | Date |
+| :--- | :--- | :--- | :--- |
+| **🎭 Mad Libs Gen** | Story automation using string concatenation. | `Python` | Apr 09 |
+| **🔄 Variable Swapper** | Value swapping logic without temp variables. | `Python` | Apr 09 |
+| **🌡️ Temp Transformer** | Celsius to Fahrenheit mathematical conversion. | `Python` | Apr 09 |
+| **⏳ Age in Seconds** | High-integer calculation based on user age. | `Python` | Apr 09 |
+| **💸 Tip Calculator** | Financial logic for bill & tip distribution. | `Python` | Apr 09 |
+| **...** | *Earlier projects* | ... | ... |
+
+<p align="right">
+  <a href="https://github.com/abdulsaboorbasit?tab=repositories">View all projects →</a>
+</p>
+
+---
+
+## 📈 Activity & Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=abdulsaboorbasit&show_icons=true&theme=transparent&text_color=79ff97&icon_color=79ff97&title_color=ffffff&hide_border=true" alt="Abdul's Stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaboorbasit&layout=compact&theme=transparent&text_color=79ff97&title_color=ffffff&hide_border=true" alt="Top Languages" width="300" />
+</p>
+
+---
+
+## ⚡ Weekly Coding Breakdown
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulsaboorbasit&theme=transparent&text_color=79ff97&title_color=ffffff&hide_border=true" width="400" />
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulsaboorbasit)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsaboorbasit@gmail.com)
+
+---
+
+*"The best way to predict the future is to code it."*
