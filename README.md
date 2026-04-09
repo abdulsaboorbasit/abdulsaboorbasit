@@ -15,11 +15,11 @@ I'm mastering Python and AI through high-frequency building. I solve practical p
 
 | Project Name | Highlights | Tech | Date |
 | :--- | :--- | :--- | :--- |
-| **🎭 Mad Libs Gen** | Story automation using string concatenation. | `Python` | Apr 09 |
-| **🔄 Variable Swapper** | Value swapping logic without temp variables. | `Python` | Apr 09 |
-| **🌡️ Temp Transformer** | Celsius to Fahrenheit mathematical conversion. | `Python` | Apr 09 |
-| **⏳ Age in Seconds** | High-integer calculation based on user age. | `Python` | Apr 09 |
-| **💸 Tip Calculator** | Financial logic for bill & tip distribution. | `Python` | Apr 09 |
+| **🎭 Mad Libs Gen** | Story automation using string concatenation. | `Python` | Apr 10, 2026 |
+| **🔄 Variable Swapper** | Value swapping logic without temp variables. | `Python` | Apr 10, 2026 |
+| **🌡️ Temp Transformer** | Celsius to Fahrenheit mathematical conversion. | `Python` | Apr 10, 2026 |
+| **⏳ Age in Seconds** | High-integer calculation based on user age. | `Python` | Apr 10, 2026 |
+| **💸 Tip Calculator** | Financial logic for bill & tip distribution. | `Python` | Apr 10, 2026 |
 | **...** | *Earlier projects* | ... | ... |
 
 <p align="right">
@@ -28,16 +28,20 @@ I'm mastering Python and AI through high-frequency building. I solve practical p
 
 ---
 
+---
+
 ## 📈 Activity & Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abdulsaboorbasit&show_icons=true&theme=transparent&text_color=79ff97&icon_color=79ff97&title_color=ffffff&hide_border=true" alt="Abdul's Stats" width="400" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsaboorbasit&layout=compact&theme=transparent&text_color=79ff97&title_color=ffffff&hide_border=true" alt="Top Languages" width="300" />
+<img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=abdulsaboorbasit&layout=compact&theme=transparent&text_color=79ff97&title_color=ffffff&hide_border=true" alt="Top Languages" width="300" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdulsaboorbasit&show_icons=true&theme=dark&hide_border=true" alt="Abdul's Stats" width="400" />
 </p>
 
 ---
 
+---
+
 ## ⚡ Weekly Coding Breakdown
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdulsaboorbasit&theme=transparent&text_color=79ff97&title_color=ffffff&hide_border=true" width="400" />
+<img src="https://wakatime.com/share/@f8f1f7d6-1145-4452-9572-c430dbef45d0/35ab366a-33e7-4598-a164-a474a4d8932a.svg" width="400" />
 
 ---
 
