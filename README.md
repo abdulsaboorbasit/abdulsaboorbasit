@@ -13,6 +13,11 @@
 
 | Project Name | Highlights | Tech | Date |
 | :--- | :--- | :--- | :--- |
+| **🚪 The Bouncer** | Conditional logic gate using `if-else` for age verification. | `Python` | Apr 11, 2026 |
+| **🛒 Grocery List** | List manipulation and index-based item replacement. | `Python` | Apr 11, 2026 |
+| **🔢 Even or Odd** | Implementing the modulo operator `%` for parity checks. | `Python` | Apr 11, 2026 |
+| **🔐 Secret Password** | String validation logic for simple authentication. | `Python` | Apr 11, 2026 |
+| **🏆 List Max-Min** | Manual iteration algorithm to find the highest value. | `Python` | Apr 11, 2026 |
 | **🎭 Mad Libs Gen** | Story automation using string concatenation. | `Python` | Apr 10, 2026 |
 | **🔄 Variable Swapper** | Value swapping logic without temp variables. | `Python` | Apr 10, 2026 |
 | **🌡️ Temp Transformer** | Celsius to Fahrenheit mathematical conversion. | `Python` | Apr 10, 2026 |
