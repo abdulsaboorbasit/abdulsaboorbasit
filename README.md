@@ -26,7 +26,7 @@
 | **...** | *Earlier projects* | ... | ... |
 
 <p align="right">
-  <a href="https://github.com/abdulsaboorbasit?tab=repositories">View all projects →</a>
+  <a href="https://github.com/abdulsaboorbasit/CodeWithSaboor">View all projects →</a>
 </p>
 
 ---
