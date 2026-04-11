@@ -13,6 +13,11 @@
 
 | Project Name | Highlights | Tech | Date |
 | :--- | :--- | :--- | :--- |
+| **🔢 The 1 to 100** | Efficiently filtering multiples of 5 using range-based loops. | `Python` | Apr 11, 2026 |
+| **🚗 "Are We There Yet?"** | Implementing `while` loops for indefinite user-driven events. | `Python` | Apr 11, 2026 |
+| **🥤 FizzBuzz Junior** | Combining loops with conditional logic for pattern matching. | `Python` | Apr 11, 2026 |
+| **🚀 Blast Off!** | Creating a reverse-order countdown using step-intervals. | `Python` | Apr 11, 2026 |
+| **✖️ The List Doubler** | Dynamic list creation and transformation through iteration. | `Python` | Apr 11, 2026 |
 | **🚪 The Bouncer** | Conditional logic gate using `if-else` for age verification. | `Python` | Apr 11, 2026 |
 | **🛒 Grocery List** | List manipulation and index-based item replacement. | `Python` | Apr 11, 2026 |
 | **🔢 Even or Odd** | Implementing the modulo operator `%` for parity checks. | `Python` | Apr 11, 2026 |
