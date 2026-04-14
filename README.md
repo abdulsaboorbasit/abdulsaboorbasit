@@ -13,6 +13,11 @@
 
 | Project Name | Highlights | Tech | Date |
 | :--- | :--- | :--- | :--- |
+| **📖 Digital Phonebook** | Building a key-value database to store and retrieve contact info. | `Python` | Apr 14, 2026 |
+| **🎉 Unique Guestlist** | Utilizing Sets to automatically filter and remove duplicate entries. | `Python` | Apr 14, 2026 |
+| **📍 Map Coordinates** | Implementing Tuples to explore data immutability and error handling. | `Python` | Apr 14, 2026 |
+| **🍎 Stock Checker** | Creating a price-lookup system using dictionary data mapping. | `Python` | Apr 14, 2026 |
+| **🔍 Dictionary Loop** | Iterating through keys to isolate and display specific identifiers. | `Python` | Apr 14, 2026 |
 | **🔢 The 1 to 100** | Efficiently filtering multiples of 5 using range-based loops. | `Python` | Apr 11, 2026 |
 | **🚗 "Are We There Yet?"** | Implementing `while` loops for indefinite user-driven events. | `Python` | Apr 11, 2026 |
 | **🥤 FizzBuzz Junior** | Combining loops with conditional logic for pattern matching. | `Python` | Apr 11, 2026 |
