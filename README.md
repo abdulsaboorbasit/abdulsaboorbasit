@@ -13,6 +13,11 @@
 
 | Project Name | Highlights | Tech | Date |
 | :--- | :--- | :--- | :--- |
+| **👋 Greeting Machine** | Defining and calling functions with parameters for reusable logic. | `Python` | Apr 17, 2026 |
+| **🧮 Calculator Function** | Building a functional math engine to process multiple operators. | `Python` | Apr 17, 2026 |
+| **🛡️ Crash Proof Input** | Using `try/except` blocks to prevent crashes during data entry. | `Python` | Apr 17, 2026 |
+| **✍️ Journal Writer** | Utilizing file I/O to save user input into permanent storage. | `Python` | Apr 17, 2026 |
+| **📖 File Reader** | Accessing and manipulating data from external `.txt` files. | `Python` | Apr 17, 2026 |
 | **📖 Digital Phonebook** | Building a key-value database to store and retrieve contact info. | `Python` | Apr 14, 2026 |
 | **🎉 Unique Guestlist** | Utilizing Sets to automatically filter and remove duplicate entries. | `Python` | Apr 14, 2026 |
 | **📍 Map Coordinates** | Implementing Tuples to explore data immutability and error handling. | `Python` | Apr 14, 2026 |
