@@ -13,6 +13,16 @@
 
 | Project Name | Highlights | Tech | Date |
 | :--- | :--- | :--- | :--- |
+| **🐾 Inheritance** | Creates an Animal/Cat hierarchy to demonstrate method inheritance. | Python | Apr 21, 2026 |
+| **🎭 Polymorphism** | Uses a single function to trigger unique sounds from different animal classes. | Python | Apr 21, 2026 |
+| **🔐 Encapsulation** | Protects the age attribute within a Person class using private variables. | Python | Apr 21, 2026 |
+| **📱 The Smart Device** | Employs the `super()` function to integrate parent methods into a child class. | Python | Apr 21, 2026 |
+| **📚 The Library System** | A container class exercise managing a list of Book objects within a Library. | Python | Apr 21, 2026 |
+| **🚗 The Car Factory** | Defines a Car class to create and display different vehicle instances. | Python | Apr 21, 2026 |
+| **🐶 The Puppy Protocol** | Features a Dog class with a method to simulate a barking behavior. | Python | Apr 21, 2026 |
+| **💰 The Bank Account** | Manages a financial balance using deposit and display functionality. | Python | Apr 21, 2026 |
+| **🎓 The Student ID** | Stores student names and grades, providing a method for average calculation. | Python | Apr 21, 2026 |
+| **📐 The Rectangle Area** | Calculates the area of a rectangle based on provided length and width. | Python | Apr 21, 2026 |
 | **👋 Greeting Machine** | Defining and calling functions with parameters for reusable logic. | `Python` | Apr 17, 2026 |
 | **🧮 Calculator Function** | Building a functional math engine to process multiple operators. | `Python` | Apr 17, 2026 |
 | **🛡️ Crash Proof Input** | Using `try/except` blocks to prevent crashes during data entry. | `Python` | Apr 17, 2026 |
